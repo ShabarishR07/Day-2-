@@ -1,2 +1,2 @@
-# Day-2-
-Program for toggle an external LED
+# Day-2
+Day 2 ESP32 project: toggle an external LED with a push-button using INPUT_PULLUP and software debouncing. Simulated in Wokwi.
